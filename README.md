@@ -1,2 +1,2 @@
 # algostudy
-This is repo to practice using git hub
+This is repo to practice git hub
